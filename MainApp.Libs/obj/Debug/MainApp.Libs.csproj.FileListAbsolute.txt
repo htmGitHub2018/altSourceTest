@@ -1,0 +1,6 @@
+C:\Projects\ClothingStore\MainApp\MainApp.Libs\obj\Debug\MainApp.Libs.csprojAssemblyReference.cache
+C:\Projects\ClothingStore\MainApp\MainApp.Libs\obj\Debug\MainApp.Libs.csproj.CoreCompileInputs.cache
+C:\Projects\ClothingStore\MainApp\MainApp.Libs\bin\Debug\MainApp.Libs.dll
+C:\Projects\ClothingStore\MainApp\MainApp.Libs\bin\Debug\MainApp.Libs.pdb
+C:\Projects\ClothingStore\MainApp\MainApp.Libs\obj\Debug\MainApp.Libs.dll
+C:\Projects\ClothingStore\MainApp\MainApp.Libs\obj\Debug\MainApp.Libs.pdb

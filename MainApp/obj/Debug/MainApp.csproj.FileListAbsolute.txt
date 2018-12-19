@@ -1,0 +1,10 @@
+C:\Projects\ClothingStore\MainApp\MainApp\bin\Debug\MainApp.exe.config
+C:\Projects\ClothingStore\MainApp\MainApp\bin\Debug\MainApp.exe
+C:\Projects\ClothingStore\MainApp\MainApp\bin\Debug\MainApp.pdb
+C:\Projects\ClothingStore\MainApp\MainApp\obj\Debug\MainApp.csprojAssemblyReference.cache
+C:\Projects\ClothingStore\MainApp\MainApp\obj\Debug\MainApp.csproj.CoreCompileInputs.cache
+C:\Projects\ClothingStore\MainApp\MainApp\obj\Debug\MainApp.exe
+C:\Projects\ClothingStore\MainApp\MainApp\obj\Debug\MainApp.pdb
+C:\Projects\ClothingStore\MainApp\MainApp\bin\Debug\MainApp.Libs.dll
+C:\Projects\ClothingStore\MainApp\MainApp\bin\Debug\MainApp.Libs.pdb
+C:\Projects\ClothingStore\MainApp\MainApp\obj\Debug\MainApp.csproj.CopyComplete
